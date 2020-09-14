@@ -1,6 +1,6 @@
-<h1> My DIGIT 100 Website </h1>
+## My DIGIT 100 Website
 We will be making additional updates soon, please have patience!
 
-<h2> About this website </h2>
+## About this website
 * [Portfolio](portfolio.md)
 * Resume
