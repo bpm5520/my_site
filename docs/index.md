@@ -4,3 +4,4 @@ We will be making additional updates soon, please have patience!
 ## About this website
 * [Portfolio](portfolio.md)
 * Resume
+* [About Me](portfolio.md)
