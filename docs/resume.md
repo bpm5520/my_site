@@ -6,7 +6,7 @@ bpm5520@psu.edu </br>
 
 
 ### Qualifications
-* Fairly knowledgable on Java and C++ coding languages
+* Fairly knowledgeable on Java and C++ coding languages
 
 
 ### Education
