@@ -26,3 +26,6 @@
   * Though I have a limited knowledge on C++ code due to my single year of C++ programming courses last year, I was able to get enough knowledge to create a program that would read a notepad page containing a "fantasy-sports type" game that could be calculated into a program and return the amount of points that each user gained that week. Though this program is basic, and probably not what many would consider "professional," it is a strong start towards making more complex personal projects in the coming months and years before heading into a Computer Science career.
   
  <img src="images/C++.JPG" alt="Fantasy Sports Code" width="200"/>
+
+
+[Home](index.md)
