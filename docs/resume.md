@@ -24,8 +24,8 @@ bpm5520@psu.edu </br>
 * Shirley Roth Trustee Scholarship
 
 ### Skills
-* Knowledgable of Java and C++ coding languages
-* Knowledgable of how computers work and can use many types of programs
+* Knowledgeable of Java and C++ coding languages
+* Knowledgeable of how computers work and can use many types of programs
 * Proficient in Microsoft Word and Excel
 
 [Home](index.md)
