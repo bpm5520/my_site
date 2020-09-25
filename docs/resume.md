@@ -1,7 +1,7 @@
 # Resumé
 
 ### Contact Information
-Brandon Morris 
+Brandon Morris -
 bpm5520 at psu.edu 
 
 
