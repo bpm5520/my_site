@@ -1,8 +1,8 @@
 # Resumé
 
 ### Contact Information
-Brandon Morris </br>
-bpm5520@psu.edu </br>
+Brandon Morris 
+bpm5520 at psu.edu 
 
 
 ### Qualifications
