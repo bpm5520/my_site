@@ -4,4 +4,5 @@
 * [Portfolio](portfolio.md)
 * [Resumé](resume.md)
 * [About Me](aboutme.md)
+* [Reflection](reflection.md)
 * [Click Here to View my Wordpress Website](https://sites.psu.edu/bpm5520/)
