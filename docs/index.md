@@ -1,7 +1,7 @@
 ## My DIGIT 100 Website
-We will be making additional updates soon, please have patience!
 
 ## About this website
 * [Portfolio](portfolio.md)
 * [Resumé](resume.md)
 * [About Me](aboutme.md)
+* [Click Here to View my Wordpress Website](https://sites.psu.edu/bpm5520/)
