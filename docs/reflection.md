@@ -7,5 +7,6 @@
 <p> For continuing work on the site, I would like to learn more Markdown and HTML so I can add better formatting and make the site look a lot less basic. Learning HTML would be helpful anyway as a Computer Science major as that would be another language that I can place on my resumé for the future. Learning website design and the basics of how to make a good-looking website for the user is also something that I should improve on, as you could make the best-looking website out there, but if it is confusing and hard to navigate, who is going to want to be on it? </p>
 <p> In conclusion, the project was a fun experience, and opened me up to possibly making other websites in the future and pushing me towards wanting to learn more about Markdown code and HTML for future projects as well. </p>
 
+* [Click Here to View my Wordpress Website](https://sites.psu.edu/bpm5520/)
 
 [Home](index.md)
