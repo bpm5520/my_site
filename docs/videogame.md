@@ -4,6 +4,5 @@ Sand is an open world game set in a desert landscape set in a post-apocalyptic A
 
 <IMG SRC="images/Sand1.JPG">
 
-### Beginning the Game
-
-The beginning of the game is straight forward. You are introduced to the robot E.D.I.E who has crash landed in the starting base. Talking to him begins your list of tasks to complete and introduce you into the game. E.D.I.E. starts off by tasking the player to get wood, water, seeds, and other resources required to make and sustain a base, as well as introduces players to concepts like selling goods and fighting enemies in the wasteland.
+### Graphics and World Building
+The graphics style in Sand is 8-bit and a top down, 2D experience, reminiscient of old RPG games. This game has tons of options to build your base and world, from wood and stone walls and furniture, up to metal and advanced technologies as the game progresses. Neighboring tiles see the enemies come to life as you have to fight tooth and nail with your trusty dog companion to fend off the groups that attack you, as well as cities and buildings that speckle the wasteland. Performing missions and expanding your base add to the immersion of the world, as upgrades to your own firepower and your bases defenses help keep you protected from the enemy raids and the enemies in the open world of other tiles.
