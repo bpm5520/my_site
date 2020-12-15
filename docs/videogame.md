@@ -14,3 +14,7 @@ There are multiple different NPCs in the game. Traveling salesmen will come to y
 
 ### My Opinions
 Sand: A Superfluous Game is an interesting indie game. The open world nature and desert wasteland lead to it feeling open and barren in some areas, especially if there are no compounds or ruins to explore in the squares. The early game can definitely feel monotonous just grinding out building and collecting supplies, but the intensity ramps up when the enemies begin to pile up and take much more strategic planning to kill. I will have to return to the game at another time to invest more energy into exploring the wasteland and expand the base that I have built even further. It is entertaining to listen to E.D.I.E. talk to you and send you out on quests to go make "his" base stronger and better so that it can attract many more "minions" for him to use. Most my 90 minutes of game time was spent exploring and searching for tasks and resources to continue moving, and to get to the first mission at the farmhouse could be daunting, especially if you are not one to risk a travel further than a tile or two away from your home. Though limited in it's graphical capabilities and amount of objects to create for your base, I can see that someone who invests more time into it than I have could make a giant complex that could have a thriving community inside of it, all led by E.D.I.E. of course. The vast wasteland holds surprises around every corner, from hordes of Skellies to large houses and ruins to quest through and explore. 
+
+<br>
+<br>
+# Where The Goats Are
